@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_hello"
+          android:title="@string/say_hello"
+        />
+
+    <item android:id="@+id/click_me"
+          android:title="@string/toast_is_toast"
+        />
+
+    <item android:id="@+id/action_login"
+          android:title="@string/log_in"/>
+
+</menu>
